@@ -9,7 +9,6 @@ body {
 
 header {
   display: flex;
-  position: fixed;
   border-bottom: 1px solid seashell;
   height: 69px;
   justify-content: space-between;
@@ -29,4 +28,17 @@ ul li {
   text-align: right;
   align-items: center;
   text-decoration: underline;
+}
+
+.story1 {
+  background-image: url(../images/mission-background.jpg);
+  height: 700px;
+  background-repeat: no-repeat;
+  background-position: center;
+  text-align: center;
+}
+
+footer {
+  text-align: left;
+  margin-left: 20px;
 }
