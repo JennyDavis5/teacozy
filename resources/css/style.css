@@ -28,6 +28,7 @@ ul li {
   text-align: right;
   align-items: center;
   text-decoration: underline;
+  margin-right: 10px;
 }
 
 .story1 {
@@ -36,13 +37,48 @@ ul li {
   width: 100%;
   background-repeat: no-repeat;
   background-position: center;
+}
+
+.mid1 {
   vertical-align: middle;
+  text-align: center;
+  background-color: black;
+}
+
+.image1, .image2, .image3, .image4, .image5 {
+  height: 200px;
+  width: 300px;
+}
+
+.row1, .name1, .row2, .name2 {
+  display: inline-block;
+}
+
+.row1 img {
+  display: block;
+  margin-bottom: -10px;
+  margin-right: 10px;
+  margin-top: -10px;
+}
+
+.row2 img {
+  display: block;
+  margin-bottom: -10px;
+  margin-right: 10px;
+  margin-top: -10px;
+}
+
+.story3 {
+  background-image: url(../images/locations-background.jpg);
+  height: 500px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
   text-align: center;
 }
 
-.image1, .image2, .image3 {
+.story4 {
   height: 200px;
-  width: 300px;
 }
 
 footer {
