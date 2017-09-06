@@ -33,9 +33,16 @@ ul li {
 .story1 {
   background-image: url(../images/mission-background.jpg);
   height: 700px;
+  width: 100%;
   background-repeat: no-repeat;
   background-position: center;
+  vertical-align: middle;
   text-align: center;
+}
+
+.image1, .image2, .image3 {
+  height: 200px;
+  width: 300px;
 }
 
 footer {
