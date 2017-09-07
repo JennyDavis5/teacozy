@@ -51,6 +51,14 @@ ul li {
   width: 1200px;
 }
 
+.story2 {
+  padding-top: 60px;
+}
+
+.story2 h2 {
+  margin-bottom: -10px;
+}
+
 .image1, .image2, .image3, .image4, .image5 {
   height: 200px;
   width: 300px;
@@ -72,6 +80,10 @@ ul li {
   margin-bottom: -10px;
   margin-right: 10px;
   margin-top: -10px;
+}
+
+.row2 .name2 {
+  padding-bottom: 60px;
 }
 
 .story3 {
@@ -98,6 +110,11 @@ ul li {
 
 .story4 {
   height: 200px;
+}
+
+.story4 h2 {
+  margin-top: 10px;
+  padding-bottom: 20px; 
 }
 
 footer {
