@@ -48,6 +48,7 @@ ul li {
 .mid1 {
   text-align: center;
   background-color: black;
+  width: 1200px;
 }
 
 .image1, .image2, .image3, .image4, .image5 {
@@ -80,6 +81,19 @@ ul li {
   background-repeat: no-repeat;
   background-position: center;
   text-align: center;
+  padding-top: 50px;
+}
+
+.story3 h2 {
+  margin-bottom: 15px;
+}
+
+.block1, .block2, .block3 {
+  background-color: black;
+  width: 300px;
+  opacity: 1;
+  display: inline-block;
+  margin-right: 40px;
 }
 
 .story4 {
